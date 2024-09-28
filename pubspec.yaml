@@ -1,0 +1,44 @@
+name: ammarapp2
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+  cupertino_icons: ^1.0.6
+  provider: ^6.0.0
+  shared_preferences: ^2.0.6
+  firebase_auth: ^5.3.0
+  firebase_core: ^3.5.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  assets:
+    - assets/images/Naya1.png
+    - assets/images/mutton.jpeg
+    - assets/images/liver2.jpeg
+    - assets/images/ready_to_cook.jpeg
+    - assets/images/freshwater_fish.jpeg
+    - assets/images/prawns.jpeg
+    - assets/images/seawater.jpeg
+    - assets/images/Chicken_curry_small.png
+    - assets/images/chicken_breast_boneless.png
+    - assets/images/Chicken_curry_large.png
+    - assets/images/Thigh.png
+    - assets/images/mini_bites.png
+    - assets/images/drum.png
+    - assets/images/mutton_curry.png
+    - assets/images/mince.png
+    - assets/images/boneless.png
+    - assets/images/liver1.png
+    - assets/images/paya.png
+    - assets/images/bheja.png

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939672197347",
+    "project_id": "ammar1-fb0be",
+    "storage_bucket": "ammar1-fb0be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939672197347:android:a8fef82110b6291d8b4dd6",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5dX9fWsmDdmwZrJsj-H0et10Tt8j65xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
